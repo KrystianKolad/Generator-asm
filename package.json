@@ -11,8 +11,12 @@
     "url": "git+https://github.com/KrystianKolad/Generator-asm.git"
   },
   "keywords": [
-    "asmx86"
+    "asmx86",
+    "yeoman-generator"
   ],
+  "dependencies": {
+    "yeoman-generator": "^1.0.0"
+  },
   "author": "Krystian Kolad",
   "license": "ISC",
   "bugs": {

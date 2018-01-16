@@ -1,0 +1,22 @@
+{
+  "name": "generator-asm",
+  "version": "1.0.0",
+  "description": "Yeoman generator for asm projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrystianKolad/Generator-asm.git"
+  },
+  "keywords": [
+    "asmx86"
+  ],
+  "author": "Krystian Kolad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrystianKolad/Generator-asm/issues"
+  },
+  "homepage": "https://github.com/KrystianKolad/Generator-asm#readme"
+}

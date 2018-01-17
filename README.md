@@ -15,7 +15,7 @@ yo asm
 ```
 You can specify name of your project and witch template will you use(with bash scripts or .bat files).
 
-Files:
-run - runst docker build and docker run
-clear - deletes created image and container
+Files:<br />
+run - runst docker build and docker run<br />
+clear - deletes created image and container<br />
 ### Remember that every change in your code you make in container stays in container
